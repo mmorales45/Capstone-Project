@@ -1,0 +1,7 @@
+python3 Full_program.py 
+Starting the Main Program for Best!
+Creating Trajectory List
+Finished Creating Trajectory List
+Starting to Generate Configurations
+Finished generating Configurations
+Plotting Errors
